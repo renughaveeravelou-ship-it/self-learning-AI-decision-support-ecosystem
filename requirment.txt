@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+xgboost
+tensorflow
+streamlit
+shap
+langchain
+faiss-cpu
+joblib
+plotly
+fastapi
+uvicorn
+sentence-transformers
+google-generativeai
+reportlab
+matplotlib
