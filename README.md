@@ -4,7 +4,7 @@ A state-of-the-art, multi-agent enterprise decision support system that integrat
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 *   **Multi-Agent Collaborative Engine**: Dynamic team of dedicated agents (Sales, Customer, Market, Social, and Maintenance) that collaborate and discuss corporate decisions in real-time.
 *   **Self-Learning Feedback Loop**: Real-time feedback monitoring and automated model retraining pipelines to continuously adapt predictions based on decisions and outcomes.
@@ -17,7 +17,7 @@ A state-of-the-art, multi-agent enterprise decision support system that integrat
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 *   **Core Logic**: Python 3.10+, Pandas, NumPy, Joblib
 *   **Machine Learning**: Scikit-Learn, XGBoost, TensorFlow
@@ -28,7 +28,7 @@ A state-of-the-art, multi-agent enterprise decision support system that integrat
 
 ---
 
-## 📂 Project Architecture
+##  Project Architecture
 
 ```
 Self-Learning AI Decision Support Ecosystem/
@@ -66,7 +66,7 @@ Self-Learning AI Decision Support Ecosystem/
 
 ---
 
-## ⚙️ Installation & Configuration
+## Installation & Configuration
 
 ### Prerequisites
 - Python 3.10 or 3.11 installed.
@@ -100,7 +100,7 @@ python main.py
 
 ---
 
-## 🏃 Running the Application
+##  Running the Application
 
 You can spin up the ecosystem either locally or using Docker.
 
@@ -132,7 +132,7 @@ This launches:
 
 ---
 
-## 📈 Feedback & Self-Learning Cycle
+##  Feedback & Self-Learning Cycle
 
 1. **Prediction & Action**: The system recommends actions based on predictions (e.g., maintenance scheduling, discount targeting).
 2. **User Feedback**: Through the Streamlit Control Center, users rate or adjust recommendations.
